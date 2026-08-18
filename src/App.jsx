@@ -1,4 +1,4 @@
-import Components from "./Components";
+import Components from "./Components/student";
 
 function App() {
   const student = {
